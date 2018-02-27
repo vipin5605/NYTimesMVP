@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\vipin.vasu\\repo\\mvp\\NYTimesMVP\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\vipin.vasu\\repo\\mvp_tymp\\NYTimesMVP\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\vipin.vasu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\089b1c23066345122616945dcce86c36\\res\\values-v16\\values-v16.xml",
